@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f3f2614-a345-413b-9909-50875ed975a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSzymon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSzymon/InOut.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zad_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="3f3f2614-a345-413b-9909-50875ed975a6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
